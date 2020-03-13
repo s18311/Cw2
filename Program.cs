@@ -24,35 +24,53 @@ namespace Cw2
             var OutputPathXML = @"..\..\..\output\daneXML.xml";
             var OutputPathJSON = @"..\..\..\output\daneJSON.json";
             var FileExtension = "xml";
+
             if (args.Length > 0)
             {
-                if (args[0] != null)
+               // Console.WriteLine("pass");
+                if (args[0] == null)
                 {
+
+                   // Console.WriteLine("arg0null");
                     InputPath = @"dane.csv";
                 }
                 else
                 {
                     InputPath = args[0];
+
+                   // Console.WriteLine("arg    "  + args[0]);
                 }
 
-                if (args[2] != null)
+                if (args[2] == null)
                 {
+
+                    //Console.WriteLine("arg2null");
                     FileExtension = "xml";
 
                 }
                 else
                 {
                     FileExtension = args[2];
+
+                   // Console.WriteLine("arg    " + args[2]);
                 }
 
-                if (args[1] != null)
+                if (args[1] == null)
                 {
+                    //Console.WriteLine("arg1null");
                     OutputPathXML = @"result.xml";
                 }
                 else
                 {
                     if (args[2] == "json")
+                    {
                         OutputPathJSON = args[1];
+                        //Console.WriteLine("arg    " + args[1]);
+                    } else
+                    {
+                        OutputPathXML = args[1];
+                        //Console.WriteLine("arg    " + args[1]);
+                    }
                 }
             }
            
