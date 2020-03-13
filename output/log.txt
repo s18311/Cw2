@@ -1,0 +1,927 @@
+STUDENT: 
+Index: 459, 
+Imie:  Paweł, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 1@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 459, 
+Imie:  Paweł, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 1@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4749, 
+Imie:  Justyna, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 30@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4432, 
+Imie:  Michał, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 31@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4450, 
+Imie:  Zbigniew, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 35@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: 
+##########################################################################  
+  
+STUDENT: 
+Index: 4455, 
+Imie:  Karolina, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 36@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: 
+##########################################################################  
+  
+STUDENT: 
+Index: 4799, 
+Imie:  Joanna, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 37@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4626, 
+Imie:  Irena, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 38@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4396, 
+Imie:  Kacper, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 40@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4902, 
+Imie:  Paweł, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 41@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4434, 
+Imie:  Aleksandra, Naziwsko: ,
+Data Urodzenia: 2000-02-12,
+Email: 42@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4434, 
+Imie:  Aleksandra, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 42@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4842, 
+Imie:  Jan, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 46@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4789, 
+Imie:  Jakub, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 49@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4513, 
+Imie:  Sabina, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 52@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4649, 
+Imie:  Jan, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 56@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4755, 
+Imie:  Jakub, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 57@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4423, 
+Imie:  Karolina, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 64@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4629, 
+Imie:  Magdalena, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 66@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4478, 
+Imie:  Paweł, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 69@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4741, 
+Imie:  Kamil, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 71@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4800, 
+Imie:  Sandra, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 77@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4429, 
+Imie:  Małgorzata, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 78@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4849, 
+Imie:  Klaudia, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 84@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 3374, 
+Imie:  Tomasz, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 95@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4756, 
+Imie:  Jolanta, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 96@pjwstk.edu.pl,
+Imie Matki: , Imie Ojca: , 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4412, 
+Imie:  Paweł, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 252@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4836, 
+Imie:  Kamil, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 254@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4454, 
+Imie:  Michał, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 257@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4443, 
+Imie:  Patryk, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 258@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4579, 
+Imie:  Michał, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 260@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4413, 
+Imie:  Zuzanna, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 264@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4554, 
+Imie:  Wojciech, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 266@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4711, 
+Imie:  Jakub, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 270@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4711, 
+Imie:  Jakub, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 270@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4549, 
+Imie:  Aleksandra, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 272@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4549, 
+Imie:  Aleksandra, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 272@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4618, 
+Imie:  Piotr, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 273@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4530, 
+Imie:  Adrian, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 274@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4607, 
+Imie:  Andrzej, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 275@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4459, 
+Imie:  Wojciech, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 276@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4589, 
+Imie:  Agata, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 281@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4589, 
+Imie:  Agata, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 281@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4556, 
+Imie:  Piotr, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 283@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4504, 
+Imie:  Grzegorz, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 284@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4505, 
+Imie:  Sebastian, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 285@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4105, 
+Imie:  Filip, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 286@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4105, 
+Imie:  Filip, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 286@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4498, 
+Imie:  Artur, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 288@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4471, 
+Imie:  Piotr, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 289@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4471, 
+Imie:  Piotr, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 289@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4724, 
+Imie:  Tomasz, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 294@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4769, 
+Imie:  Michał, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 296@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4733, 
+Imie:  Jakub, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 298@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4584, 
+Imie:  Kasper, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 299@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4514, 
+Imie:  Krzysztof, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 300@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4935, 
+Imie:  Katarzyna, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 303@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4456, 
+Imie:  Piotr, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 305@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4107, 
+Imie:  Jan, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 306@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4107, 
+Imie:  Jan, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 306@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4107, 
+Imie:  Jan, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 306@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4817, 
+Imie:  Kacper, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 308@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4387, 
+Imie:  Lech, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 310@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4509, 
+Imie:  Błażej, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 311@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4481, 
+Imie:  Paweł, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 313@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4512, 
+Imie:  Wojciech, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 314@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4782, 
+Imie:  Maciej, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 315@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4627, 
+Imie:  Michał, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 320@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4830, 
+Imie:  Krzysztof, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 321@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4447, 
+Imie:  Mariusz, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 323@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4580, 
+Imie:  Bartosz, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 324@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4284, 
+Imie:  Piotr, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 325@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Sztuka Nowych Mediów, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4440, 
+Imie:  Michał, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 326@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4796, 
+Imie:  Paweł, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 329@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4942, 
+Imie:  Nakul, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 332@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4614, 
+Imie:  Tomoto, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 333@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4433, 
+Imie:  Adam, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 335@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4419, 
+Imie:  Michał, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 338@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4419, 
+Imie:  Michał, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 338@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4058, 
+Imie:  Adrian, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 341@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Wieczorowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4524, 
+Imie:  Michał, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 342@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4532, 
+Imie:  Jagoda, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 348@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4480, 
+Imie:  Tomasz, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 349@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4523, 
+Imie:  Michał, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 351@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4766, 
+Imie:  Bartosz, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 352@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4422, 
+Imie:  Yuriy, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 356@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4660, 
+Imie:  Michał, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 357@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 3081, 
+Imie:  Mikołaj, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 360@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 3081, 
+Imie:  Mikołaj, Naziwsko: Kowalski,
+Data Urodzenia: 2000-02-12,
+Email: 360@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4385, 
+Imie:  Anna, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 362@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4522, 
+Imie:  Michał, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 364@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4518, 
+Imie:  Karol, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 366@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4384, 
+Imie:  Adrian, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 367@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4384, 
+Imie:  Adrian, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 367@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4496, 
+Imie:  Łukasz, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 368@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4750, 
+Imie:  Adam, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 369@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4750, 
+Imie:  Adam, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 369@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Internetowe
+##########################################################################  
+  
+STUDENT: 
+Index: 4483, 
+Imie:  Michał, Naziwsko: Brzęczyszczykiewicz,
+Data Urodzenia: 2000-02-12,
+Email: 372@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4751, 
+Imie:  Tomasz, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 373@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4751, 
+Imie:  Tomasz, Naziwsko: Maciejewski,
+Data Urodzenia: 2000-02-12,
+Email: 373@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: MBA dla branży IT, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4528, 
+Imie:  Radosław, Naziwsko: Jankowski,
+Data Urodzenia: 2000-02-12,
+Email: 374@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
+STUDENT: 
+Index: 4814, 
+Imie:  Przemysław, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 376@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Zaoczne
+##########################################################################  
+  
+STUDENT: 
+Index: 4616, 
+Imie:  Rafał, Naziwsko: Nowak,
+Data Urodzenia: 2000-02-12,
+Email: 381@pjwstk.edu.pl,
+Imie Matki: Alina, Imie Ojca: Adam, 
+Kierunek Studiów: Informatyka, Tryb: Dzienne
+##########################################################################  
+  
